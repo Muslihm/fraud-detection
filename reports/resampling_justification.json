@@ -1,0 +1,10 @@
+{
+  "method": "SMOTE",
+  "reason": "Extreme class imbalance requires synthetic oversampling",
+  "alternatives_rejected": [
+    "Undersampling",
+    "Simple oversampling",
+    "Class weights"
+  ],
+  "implementation": "Applied to training data only with k_neighbors=5"
+}

@@ -1,0 +1,40 @@
+# Data files
+data/raw/
+data/processed/
+*.csv
+*.pkl
+*.joblib
+
+# Models
+models/*.pkl
+models/*.joblib
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.so
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
